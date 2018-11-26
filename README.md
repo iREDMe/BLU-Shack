@@ -1,10 +1,10 @@
-# Sponsor-Server
+# BLU Shack System
 
-The BLU Shack's server sponsor system.
+The BLU Shack's system for regulating things.
 
-## How to do:
+## Submit a Server Sponsor:
 
 1. Go to ``Issues``
 2. Create new Issue
 3. Select the Issue ``Request Server Sponsor``
-4. Check off things.
+4. Fill in the requirements.
