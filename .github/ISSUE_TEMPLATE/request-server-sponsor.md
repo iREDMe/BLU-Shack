@@ -1,6 +1,9 @@
 ---
 name: Request Server Sponsor
 about: Request a server sponsor for BLU Shack!
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
